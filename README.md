@@ -1,2 +1,2 @@
 # web-development
-#this is my protfolio using only HTML!
+#this is my portfolio using only HTML!
